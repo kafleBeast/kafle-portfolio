@@ -53,6 +53,7 @@ function Footer() {
             </ul>
         </Col>
       <Col md="4" className="footer-copywright">
+      {year}
       </Col>
       </Row>
     </Container>
