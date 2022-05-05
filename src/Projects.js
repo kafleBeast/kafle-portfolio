@@ -13,7 +13,7 @@ const PROJECTS = [
     name: "Optimal Control of Several Motion Models",
     technologyUsed: "Python for Simulation",
     description: "This project targets the study and applications of a new challenging class of optimization problems for discontinuous differential inclusions governed by a generalized version of the Moreau sweeping process. To address such a new type of optimal control problem, a set of necessary optimality conditions was established. Considering these theoretical optimality conditions for the optimal control problems allows us to solve dynamic optimization problems for a microscopic version of the planar crowd motion models with obstacles.",
-    url: "https://abhishekkafle.com.np/project/",
+    url: "https://arxiv.org/abs/2205.00260",
   },
   {
     image: seniorDesign,
