@@ -13,14 +13,14 @@ const PROJECTS = [
     image: research,
     name: "Optimal Control of Several Motion Models",
     technologyUsed: "Python for Simulation",
-    description: "This project targets the study and applications of a new challenging class of optimization problems for discontinuous differential inclusions governed by a generalized version of the Moreau sweeping process. To address such a new type of optimal control problem, a set of necessary optimality conditions was established. Considering these theoretical optimality conditions for the optimal control problems allows us to solve dynamic optimization problems for a microscopic version of the planar crowd motion models with obstacles.",
+    description: "This project targets the study and applications of a new challenging class of optimization problems for discontinuous differential inclusions governed by a generalized version of the Moreau sweeping process, which allows us to solve dynamic optimization problems for a microscopic version of the planar crowd motion models with obstacles.",
     url: "https://arxiv.org/abs/2205.00260",
   },
   {
     image: seniorDesign,
     name: "Smart Trajectory Acquisition Response (STAR) System",
     technologyUsed: "OpenCV, Python, Arduino, CAD, 3D-printing",
-    description: "In this year-long collaborative project, we designed and manufactured an electromechanical system consisting of a motion capture system using high FPS cameras, a data processing unit using the OpenCV library, and a mechanical 2-D response platform operated using microcontrollers. The response platform, which is a dartboard connected via pulleys to the stepper motors, intercepts the incoming dart by calculating its trajectory in real-time. The motivation to design such a system came from the emerging need to intercept and remove orbital debris, also known as “space junk”, which threatens human spaceflight and other robotic missions.",
+    description: "In this year-long collaborative project, we designed and manufactured an electromechanical system consisting of a motion capture system using high FPS cameras, a data processing unit using the OpenCV library, and a mechanical 2-D response platform operated using microcontrollers. Click the link to view the design report",
     url: "https://docs.google.com/document/d/119gi_KJ1Ycaml0ALVMv3zG3diBU94sUiBAftzB6Bmlk/edit?usp=sharing",
   },
   {
@@ -34,7 +34,7 @@ const PROJECTS = [
     image: greprep,
     name: "GRE Vocab Preparation",
     technologyUsed: "ReactJs, Javascript",
-    description: "A platform to learn vocabularies with the primary goal of scoring 160+ in GRE Verbal section. The website includes features to customize your personal list of words or to learn from the prewritten SETS. Users can also learn using flashcards or Quizzes.",
+    description: "A platform to learn vocabularies with the primary goal of scoring 160+ in GRE Verbal section. The website includes features to customize your personal list of words or to learn from the prewritten Sets, each containing 20 words. Users can also learn using flashcards or Quizzes.",
     url: "https://focused-wiles-f203aa.netlify.app",
   },
 ];
