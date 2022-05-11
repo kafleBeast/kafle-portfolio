@@ -5,7 +5,7 @@ import ProjectCard from "./Cards/ProjectsCards";
 import greprep from "./images/greprep.jpg";
 import finfo from "./images/finfo.jpg";
 import research from "./images/research.png"
-import seniorDesign from './images/seniorDesignProject.HEIC'
+import seniorDesign from './images/seniorDesignProject.jpg'
 
 
 const PROJECTS = [
