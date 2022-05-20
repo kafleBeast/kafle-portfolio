@@ -5,8 +5,8 @@ import ProjectCard from "./Cards/ProjectsCards";
 import greprep from "./images/greprep.jpg";
 import finfo from "./images/finfo.jpg";
 import research from "./images/research.png"
-import seniorDesign from './images/seniorDesignProject.jpg'
-
+import seniorDesign from './images/seniorDesignProject.jpg';
+import blockchain from './images/blockchain.png';
 
 const PROJECTS = [
   {
@@ -22,6 +22,13 @@ const PROJECTS = [
     technologyUsed: "OpenCV, Python, Arduino, CAD, 3D-printing",
     description: "In this year-long collaborative project, we designed and manufactured an electromechanical system consisting of a motion capture system using high FPS cameras, a data processing unit using the OpenCV library, and a mechanical 2-D response platform operated using microcontrollers. Click the link to view the design report",
     url: "https://docs.google.com/document/d/119gi_KJ1Ycaml0ALVMv3zG3diBU94sUiBAftzB6Bmlk/edit?usp=sharing",
+  },
+  {
+    image: blockchain,
+    name: "Simple blockchain demo",
+    technologyUsed: "ReactJs, Javascript",
+    description: "A simple blockchain demo that includes SHA256 hash generator, concept of proof of work, and how blocks are chained togther. ",
+    url: "https://famous-pithivier-991c6b.netlify.app/",
   },
   {
     image: finfo,
