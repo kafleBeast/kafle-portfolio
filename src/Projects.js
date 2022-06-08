@@ -7,6 +7,7 @@ import finfo from "./images/finfo.jpg";
 import research from "./images/research.png"
 import seniorDesign from './images/seniorDesignProject.jpg';
 import blockchain from './images/blockchain.png';
+import cipher from './images/cipher.png';
 
 const PROJECTS = [
   {
@@ -43,6 +44,13 @@ const PROJECTS = [
     technologyUsed: "ReactJs, Javascript",
     description: "A platform to learn vocabularies with the primary goal of scoring 160+ in GRE Verbal section. The website includes features to customize your personal list of words or to learn from the prewritten Sets, each containing 20 words. Users can also learn using flashcards or Quizzes.",
     url: "https://focused-wiles-f203aa.netlify.app",
+  },
+  {
+    image: cipher,
+    name: "Mixed Alphabet Cipher demo",
+    technologyUsed: "ReactJs, Javascript",
+    description: "A simple demo that features enciphering and deciphering procedure of cipher text using monoalphabetic substitution.",
+    url: "https://628f13a7a8691a1f38af7eb3--glittering-khapse-db32c4.netlify.app/",
   },
 ];
 
