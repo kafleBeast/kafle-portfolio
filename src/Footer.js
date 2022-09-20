@@ -52,7 +52,7 @@ function Footer() {
             </ul>
         </Col>
       <Col md="4" className="footer-copywright">
-      {Updated Sep 19 2022}
+      {"Updated Sep 19, 2022"}
       </Col>
       </Row>
     </Container>
