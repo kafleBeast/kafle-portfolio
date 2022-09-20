@@ -30,7 +30,7 @@ const Resume = () => {
           </nav>
 
           <nav className="button-spacing">
-          <Button variant="primary" href="https://drive.google.com/file/d/10S0uv-PgvWNC-aNXvTn-q9NiYApuQ0CO/view?usp=sharing" 
+          <Button variant="primary" href="https://drive.google.com/file/d/1Nx7VpiGjT-zfMT79AZV34j2tC0_mpISH/view?usp=sharing" 
           target="_blank" className="download-button">
             <AiOutlineDownload />
             &nbsp;Download General Resume
