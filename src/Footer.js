@@ -9,8 +9,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 
 
 function Footer() {
-  let date = new Date();
-  let year = date.getFullYear();
+
   return (
     <Container fluid className="footer">
       <Row>
@@ -53,7 +52,7 @@ function Footer() {
             </ul>
         </Col>
       <Col md="4" className="footer-copywright">
-      {year}
+      {Updated Sep 19 2022}
       </Col>
       </Row>
     </Container>
