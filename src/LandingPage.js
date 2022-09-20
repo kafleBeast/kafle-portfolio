@@ -36,10 +36,8 @@ const LandingPage = () => {
 
                     <p className="heading-description blockquote">
                         I am passionate about solving challenging problems using 
-                        Mathematics.  I also enjoy programming and designing web applications.
-                        I graduated with a Bachelor's in Mechanical Engineering and Applied Mathematics
-                        & Statistics degree from Stony Brook University in June 2022. Subsequently I 
-                        enrolled in a Master's program in Applied Mathematics with a 
+                        Statitics. I also enjoy programming and designing web applications.
+                        I am currently enrolled in a Master's program in Applied Mathematics with a 
                         focus on Statistics at Missouri University of Science and Technology in August 2022. 
                         I am currently looking for 2023 Summer internships at companies that 
                         require Statistical data analysis, quantitative risk analysis, computer vision, 
