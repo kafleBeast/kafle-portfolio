@@ -18,7 +18,7 @@ const Resume = () => {
           <a href="https://drive.google.com/file/d/1GaQ7G-kZ6XWaoT_UBgd9CjwYfBHdWSRz/view?usp=sharing"> Europass CV</a>
           </ul>
           <ul>
-          <a href="https://drive.google.com/file/d/10S0uv-PgvWNC-aNXvTn-q9NiYApuQ0CO/view?usp=sharing">General Resume</a>
+          <a href="https://drive.google.com/file/d/1nN0OIpJgxclQtceLng4Oi5o155Jon-aX/view?usp=share_link">General Resume</a>
           </ul> */}
           <Row style={{ justifyContent: "center", position: "relative"}}>
           <nav className="button-spacing">
