@@ -416,8 +416,9 @@
 /*   Resume  */
 /*   ****    */
 .resume{
+  margin: auto;
   margin-top: 15%;
-  margin-left: 10%;
+  
 }
 /* 
 .resume-pic {
