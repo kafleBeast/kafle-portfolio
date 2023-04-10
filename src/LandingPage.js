@@ -29,11 +29,6 @@ const LandingPage = () => {
                         </span>
                     </h1>
 
-                    <h1 className="heading-name">
-                        I'M
-                        <strong className="main-name"> Abhishek Kafle</strong>
-                    </h1>
-
                     <p className="heading-description blockquote">
                         <p> Meet Abhishek, a driven and analytical Master's student in Statistics who is passionate about uncovering insights from data. 
                             Throughout Abhishek’s academic career, he has been fascinated by the power of statistics to inform decision-making and help 
