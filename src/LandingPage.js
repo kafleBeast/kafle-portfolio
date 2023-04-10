@@ -31,7 +31,7 @@ const LandingPage = () => {
 
                     <p className="heading-description blockquote">
                         <p> Meet Abhishek, a driven and analytical Master's student in Statistics who is passionate about uncovering insights from data. 
-                            Throughout Abhishek’s academic career, he has been fascinated by the power of statistics to inform decision-making and help 
+                            Throughout his academic career, he has been fascinated by the power of statistics to inform decision-making and help 
                             solve real-world problems.
                         </p>  
                         <p> With a strong foundation in mathematics and statistics, Abhishek has honed their skills in data analysis, statistical 
@@ -44,32 +44,35 @@ const LandingPage = () => {
                         that drive meaningful results.
                         </p> 
                         
-                        <p> Outside of their studies, Abhisek enjoys staying active by playing soccer and ping pong. He finds pleasure in broadening 
+                        <p> Outside of their studies, Abhishek enjoys staying active by playing soccer and ping pong. He finds pleasure in broadening 
                             his horizons by immersing himself in diverse cultural experiences, and often achieves this by engaging with cinema from 
                             around the world.
                        </p> 
 
                     </p>
 
-                    <div className="heading-type">
-                    <Typewriter
-                        options={{
-                            strings: [
-                            "Mechanical Engineer",
-                            "Applied Mathematician",
-                            "Front-end developer",
-                            
-                            ],
-                            autoStart: true,
-                            loop: true,
-                            deleteSpeed: 50,
-                        }}
-                    />
-                    </div>
+                    
                     </Col>
 
                     <Col md={5}>
-                    <img src={myImg} className="profile-pic" alt="avatar" />
+                        <img src={myImg} className="profile-pic" alt="avatar" />
+                        <div className="heading-type">
+                            <Typewriter
+                                options={{
+                                    strings: [
+                                 
+                                    "Statistics",
+                                    "Actuarial Science",
+                                    "Financial Mathematics",
+                                    "Data Analysis"
+                                    ],
+                                    autoStart: true,
+                                    loop: true,
+                                    deleteSpeed: 80,
+                                }}
+                            />
+                    </div>
+                     
                     </Col>
                 </Row>
                 </Container>
