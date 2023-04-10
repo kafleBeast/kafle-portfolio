@@ -416,7 +416,6 @@
 /*   Resume  */
 /*   ****    */
 .resume{
-  margin: auto;
   margin-top: 15%;
   
 }
@@ -426,6 +425,8 @@
   width: 65%;
   margin-top: 12%;
   margin-left: 25%;
+  display: flex;
+  justify-content: center;
 } */
 
 .download-button{
