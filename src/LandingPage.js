@@ -8,7 +8,7 @@ import {
   } from "react-icons/ai";
 import { MdEmail } from "react-icons/md";
 import { FaLinkedinIn } from "react-icons/fa";
-import myImg from "./images/kafle.jpg";
+import myImg from "./images/self_img.jpg";
 
 const LandingPage = () => {
     
@@ -35,14 +35,26 @@ const LandingPage = () => {
                     </h1>
 
                     <p className="heading-description blockquote">
-                        I am passionate about solving challenging problems using 
-                        Statistics. I also enjoy programming and designing web applications.
-                        I am currently enrolled in a Master's program in Applied Mathematics with a 
-                        focus on Statistics at Missouri University of Science and Technology in August 2022. 
-                        I am currently looking for 2023 Summer internships at companies that 
-                        require Statistical data analysis, quantitative risk analysis, computer vision, 
-                        or something similar where I can contribute with my academic background
-                        and experience. I am a quick learner, and can adapt into most situations or positions.  
+                        <p> Meet Abhishek, a driven and analytical Master's student in Statistics who is passionate about uncovering insights from data. 
+                            Throughout Abhishek’s academic career, he has been fascinated by the power of statistics to inform decision-making and help 
+                            solve real-world problems.
+                        </p>  
+                        <p> With a strong foundation in mathematics and statistics, Abhishek has honed their skills in data analysis, statistical 
+                            modeling, and machine learning. He is proficient in programming languages such as R, Python, and SQL, and has experience 
+                            working with large datasets. 
+                        </p> 
+                        <p> Abhishek is a proactive and results-oriented individual who is always eager to take on new challenges. He has worked on a 
+                        variety of data projects, including analyzing stock market behavior by evaluating reward-to-risk metric and developing a 
+                        predictive linear model to forecast Missouri housing prices using stepwise regression techniques.
+                        </p> 
+                        <p> In addition to their technical expertise, Abhishek is an excellent communicator who can effectively convey complex 
+                        statistical concepts to both technical and non-technical audiences. He understands the importance of collaborating with 
+                            stakeholders to understand their needs and goals, and is committed to delivering insights that drive meaningful results.
+                        </p> 
+                        <p> Outside of their studies, Abhisek enjoys staying active by playing soccer and ping pong. He finds pleasure in broadening 
+                            his horizons by immersing himself in diverse cultural experiences, and often achieves this by engaging with cinema from 
+                            around the world.
+                       </p> 
 
                     </p>
 
