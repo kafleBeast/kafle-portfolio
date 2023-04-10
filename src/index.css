@@ -421,9 +421,9 @@
 }
 
 .resume-pic {
-  height: 80%;
-  width: 50%;
-  margin-top: 12%;
+  height: 100%;
+  width: 65%;
+  margin-top: 5%;
   margin-left: 25%;
   display: flex;
   justify-content: center;
@@ -443,9 +443,9 @@
 }
 @media (max-width: 767px) {
   .resume-pic {
-    height: 80%;
-    width: 50%;
-    margin-top: 12%;
+    height: 100%;
+    width: 65%;
+    margin-top: 5%;
     margin-left: 25%;
   }
 }
