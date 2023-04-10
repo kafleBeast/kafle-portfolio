@@ -12,13 +12,6 @@ const Resume = () => {
       <div className="resume">
         <img src={resume} className="resume-pic" alt="resume" />
         <div className="download-resume">
-          {/* <h2>Download</h2>
-          <ul>
-          <a href="https://drive.google.com/file/d/1GaQ7G-kZ6XWaoT_UBgd9CjwYfBHdWSRz/view?usp=sharing"> Europass CV</a>
-          </ul>
-          <ul>
-          <a href="https://drive.google.com/file/d/1nN0OIpJgxclQtceLng4Oi5o155Jon-aX/view?usp=share_link">General Resume</a>
-          </ul> */}
           <Row style={{ justifyContent: "center", position: "relative"}}>
           <nav className="button-spacing">
           <Button variant="primary" href="https://drive.google.com/file/d/1GaQ7G-kZ6XWaoT_UBgd9CjwYfBHdWSRz/view?usp=sharing" 
