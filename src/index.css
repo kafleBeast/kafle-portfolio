@@ -268,18 +268,18 @@
 
 
 .profile-pic {
-  border-radius: 35%;
-  height: 50%;
-  width: 60%;
+  border-radius: 50%;
+  height: 100%;
+  width: 100%;
   margin-top: 12%;
   margin-left: 25%;
 }
 
 @media (max-width: 767px) {
   .profile-pic {
-    border-radius: 35%;
-    height: 55%;
-    width: 55%;
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
     margin-top: 12%;
     margin-left: 25%;
   }
