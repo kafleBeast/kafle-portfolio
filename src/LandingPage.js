@@ -43,14 +43,12 @@ const LandingPage = () => {
                             modeling, and machine learning. He is proficient in programming languages such as R, Python, and SQL, and has experience 
                             working with large datasets. 
                         </p> 
-                        <p> Abhishek is a proactive and results-oriented individual who is always eager to take on new challenges. He has worked on a 
-                        variety of data projects, including analyzing stock market behavior by evaluating reward-to-risk metric and developing a 
-                        predictive linear model to forecast Missouri housing prices using stepwise regression techniques.
+                        <p> In addition to his technical expertise, Abhishek is an excellent communicator who can effectively convey complex statistical 
+                            concepts to both technical and non-technical audiences. He understands the 
+                        importance of collaborating with stakeholders to understand their needs and goals, and is committed to delivering insights 
+                        that drive meaningful results.
                         </p> 
-                        <p> In addition to their technical expertise, Abhishek is an excellent communicator who can effectively convey complex 
-                        statistical concepts to both technical and non-technical audiences. He understands the importance of collaborating with 
-                            stakeholders to understand their needs and goals, and is committed to delivering insights that drive meaningful results.
-                        </p> 
+                        
                         <p> Outside of their studies, Abhisek enjoys staying active by playing soccer and ping pong. He finds pleasure in broadening 
                             his horizons by immersing himself in diverse cultural experiences, and often achieves this by engaging with cinema from 
                             around the world.
