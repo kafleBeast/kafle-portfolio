@@ -30,12 +30,12 @@ const LandingPage = () => {
                     </h1>
 
                     <p className="heading-description blockquote">
-                        <p> Meet Abhishek, a driven and analytical Master's student in Statistics who is passionate about uncovering insights from data. 
+                        <p> Meet Abhishek, a driven and analytical Doctoral student in Statistics who is passionate about uncovering insights from data. 
                             Throughout his academic career, he has been fascinated by the power of statistics to inform decision-making and help 
                             solve real-world problems.
                         </p>  
                         <p> With a strong foundation in mathematics and statistics, Abhishek has honed their skills in data analysis, statistical 
-                            modeling, and machine learning. He is proficient in programming languages such as R, Python, and SQL, and has experience 
+                            modeling, and machine learning. He is proficient in programming languages such as Python, R, and SQL, and has experience 
                             working with large datasets. 
                         </p> 
                         <p> In addition to his technical expertise, Abhishek is an excellent communicator who can effectively convey complex statistical 
@@ -102,7 +102,7 @@ const LandingPage = () => {
                         </li>
                         <li className="social-icons">
                             <a
-                            href="https://www.linkedin.com/in/kafleabhishek/"
+                            href="https://www.linkedin.com/in/abckafle/"
                             target="_blank"
                             rel="noreferrer"
                             className="icon-colour  home-social-icons"
