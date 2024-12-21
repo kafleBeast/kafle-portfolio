@@ -8,8 +8,15 @@ import research from "./images/research.png"
 import seniorDesign from './images/seniorDesignProject.jpg';
 import blockchain from './images/blockchain.png';
 import cipher from './images/cipher.png';
-
+import thesis from './images/thesis.png';
 const PROJECTS = [
+  {
+    image: thesis,
+    name: "Master's thesis",
+    technologyUsed: "Tensorflow, Scikit-learn, Python Dash",
+    description: "This study compares GARCH, LSTM, GRU, BiLSTM, and hybrid models for forecasting financial product volatility and price, highlighting their strengths and limitations. A user-friendly dashboard facilitates model training and evaluation, enabling users to upload datasets, customize parameters, and visualize results with performance metrics. The findings offer valuable insights into the accuracy, robustness, and efficiency of single and hybrid forecasting models.",
+    url: "https://scholarsmine.mst.edu/masters_theses/8204/",
+  },
   {
     image: research,
     name: "Optimal Control of Several Motion Models",
