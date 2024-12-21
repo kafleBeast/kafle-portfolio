@@ -1,6 +1,6 @@
 import React from "react";
 
-import resume from "./images/resume_new_2.png";
+import resume from "./images/resume_new_3.png";
 
 import { AiOutlineDownload } from "react-icons/ai";
 import Button from "react-bootstrap/Button";
