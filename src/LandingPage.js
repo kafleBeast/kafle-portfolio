@@ -44,9 +44,7 @@ const LandingPage = () => {
                         that drive meaningful results.
                         </p> 
                         
-                        <p> Outside of their studies, Abhishek enjoys staying active by playing soccer and ping pong. He finds pleasure in broadening 
-                            his horizons by immersing himself in diverse cultural experiences, and often achieves this by engaging with cinema from 
-                            around the world.
+                        <p> Outside of their studies, Abhishek enjoys staying active by playing soccer and ping pong. 
                        </p> 
 
                     </p>
