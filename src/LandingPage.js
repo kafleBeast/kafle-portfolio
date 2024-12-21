@@ -52,7 +52,7 @@ const LandingPage = () => {
                     
                     </Col>
 
-                    <Col md={5}>
+                    <Col md={5} className= "text-center">
                         <img src={myImg} className="profile-pic" alt="avatar" />
                         <div className="heading-type">
                             <Typewriter
@@ -69,7 +69,7 @@ const LandingPage = () => {
                                     deleteSpeed: 80,
                                 }}
                             />
-                    </div>
+                        </div>
                      
                     </Col>
                 </Row>
