@@ -30,7 +30,7 @@ function Footer() {
                 </li>
                 <li className="social-icons">
                     <a
-                    href="https://www.linkedin.com/in/kafleabhishek/"
+                    href="https://www.linkedin.com/in/abckafle/"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  footer-social-icons"
@@ -52,7 +52,7 @@ function Footer() {
             </ul>
         </Col>
       <Col md="4" className="footer-copywright">
-      {"Updated Apr 10, 2023"}
+      {"Updated Jan 10, 2025"}
       </Col>
       </Row>
     </Container>
