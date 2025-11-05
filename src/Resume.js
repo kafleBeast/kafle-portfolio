@@ -1,6 +1,6 @@
 import React from "react";
 
-import resume from "./images/resume_new_3.png";
+import resume from "./images/Resume_Nov5.png";
 
 import { AiOutlineDownload } from "react-icons/ai";
 import Button from "react-bootstrap/Button";
@@ -13,19 +13,19 @@ const Resume = () => {
         <img src={resume} className="resume-pic" alt="resume" />
         <div className="download-resume">
           <Row style={{ justifyContent: "center", position: "relative"}}>
-          <nav className="button-spacing">
-          <Button variant="primary" href="https://drive.google.com/file/d/1GaQ7G-kZ6XWaoT_UBgd9CjwYfBHdWSRz/view?usp=sharing" 
-          target="_blank" className="download-button">
-            <AiOutlineDownload />
-            &nbsp;Download Europass CV
-          </Button>
-          </nav>
+          // <nav className="button-spacing">
+          // <Button variant="primary" href="https://drive.google.com/file/d/1GaQ7G-kZ6XWaoT_UBgd9CjwYfBHdWSRz/view?usp=sharing" 
+          // target="_blank" className="download-button">
+          //   <AiOutlineDownload />
+          //   &nbsp;Download Europass CV
+          // </Button>
+          // </nav>
 
-          <nav className="button-spacing">
-          <Button variant="primary" href="https://drive.google.com/file/d/1nN0OIpJgxclQtceLng4Oi5o155Jon-aX/view?usp=share_link" 
+          // <nav className="button-spacing">
+          <Button variant="primary" href="https://drive.google.com/file/d/1X6VhLyG_F0_wIbek6M0xlLJy_mZCzF_s/view?usp=sharing" 
           target="_blank" className="download-button">
             <AiOutlineDownload />
-            &nbsp;Download General Resume
+            &nbsp;Download Resume 11/05/2025
           </Button>
           </nav>
           </Row>
@@ -35,3 +35,4 @@ const Resume = () => {
   }
    
   export default Resume;
+
