@@ -17,13 +17,13 @@ const PROJECTS = [
     description: "This study compares GARCH, LSTM, GRU, BiLSTM, and hybrid models for forecasting financial product volatility and price, highlighting their strengths and limitations. A user-friendly dashboard facilitates model training and evaluation, enabling users to upload datasets, customize parameters, and visualize results with performance metrics. The findings offer valuable insights into the accuracy, robustness, and efficiency of single and hybrid forecasting models.",
     url: "https://scholarsmine.mst.edu/masters_theses/8204/",
   },
-  {
-    image: research,
-    name: "Optimal Control of Several Motion Models",
-    technologyUsed: "Python for Simulation",
-    description: "This project targets the study and applications of a new challenging class of optimization problems for discontinuous differential inclusions governed by a generalized version of the Moreau sweeping process, which allows us to solve dynamic optimization problems for a microscopic version of the planar crowd motion models with obstacles.",
-    url: "https://arxiv.org/abs/2205.00260",
-  },
+  // {
+  //   image: research,
+  //   name: "Optimal Control of Several Motion Models",
+  //   technologyUsed: "Python for Simulation",
+  //   description: "This project targets the study and applications of a new challenging class of optimization problems for discontinuous differential inclusions governed by a generalized version of the Moreau sweeping process, which allows us to solve dynamic optimization problems for a microscopic version of the planar crowd motion models with obstacles.",
+  //   url: "https://arxiv.org/abs/2205.00260",
+  // },
   {
     image: seniorDesign,
     name: "Smart Trajectory Acquisition Response (STAR) System",
@@ -93,3 +93,4 @@ const Projects = () =>{
 }
 
 export default Projects;
+
