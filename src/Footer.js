@@ -52,10 +52,11 @@ function Footer() {
             </ul>
         </Col>
       <Col md="4" className="footer-copywright">
-      {"Updated Jan 10, 2025"}
+      {"Updated Nov 05, 2025"}
       </Col>
       </Row>
     </Container>
   );
 }
 export default Footer;
+
