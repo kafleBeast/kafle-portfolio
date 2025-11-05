@@ -13,15 +13,15 @@ const Resume = () => {
         <img src={resume} className="resume-pic" alt="resume" />
         <div className="download-resume">
           <Row style={{ justifyContent: "center", position: "relative"}}>
-          // <nav className="button-spacing">
-          // <Button variant="primary" href="https://drive.google.com/file/d/1GaQ7G-kZ6XWaoT_UBgd9CjwYfBHdWSRz/view?usp=sharing" 
-          // target="_blank" className="download-button">
-          //   <AiOutlineDownload />
-          //   &nbsp;Download Europass CV
-          // </Button>
-          // </nav>
+          <nav className="button-spacing">
+          <Button variant="primary" href="https://drive.google.com/file/d/1GaQ7G-kZ6XWaoT_UBgd9CjwYfBHdWSRz/view?usp=sharing" 
+          target="_blank" className="download-button">
+            <AiOutlineDownload />
+            &nbsp;Download Europass CV
+          </Button>
+          </nav>
 
-          // <nav className="button-spacing">
+          <nav className="button-spacing">
           <Button variant="primary" href="https://drive.google.com/file/d/1X6VhLyG_F0_wIbek6M0xlLJy_mZCzF_s/view?usp=sharing" 
           target="_blank" className="download-button">
             <AiOutlineDownload />
